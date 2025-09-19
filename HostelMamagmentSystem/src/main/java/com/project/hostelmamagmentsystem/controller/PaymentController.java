@@ -8,8 +8,6 @@ import com.project.hostelmamagmentsystem.service.PaymentService;
 import lombok.experimental.FieldDefaults;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-///  Payment makePayment(Long userId, Double amount);
-///     List<Payment> getPaymentsByUser(Long userId);
 import java.util.List;
 import java.util.stream.Collectors;
 
